@@ -20,7 +20,6 @@ Software project failure -
  - Failure to use software engineering methods
 	- It is fairly easy to wrie computer programs without using software engineering methods and techniques. Many companies have drifted into software development as their products and services have evolved. They do not use software engineering methods in their everyday work. Consequently, their software is often more expensive and less reliable than it should be.
 
-Professional software development
 
 
 	
