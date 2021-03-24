@@ -1,0 +1,33 @@
+							Lecture 1 - DAA (Complexity analysis)
+
+Analysis - It is the theorotical estimation of the resource implementation of the particular algorithm.
+Predicting the resources that the algorithm requires.
+
+Model of the implementation technology - random - access machine (RAM)
+   - Instructions are executed one after another, with no concurrent operations.  
+   - The RAM model contains instructions commonly found in real computers:
+	-arithmetic(such as add, subtract, multiply, divide, remainder, floor, ceiling), data movement(Load, Store, Copy), and control(Jump instruction).
+   - Every instruction takes a constant amount of time.
+
+Analysis criteria (This is not a complete list)
+   - Correctness 
+   - Readability
+   - Simplicity
+   - Optimality
+   - Amount of space used* - space complexity
+   - Amount of work done* - Time complexity
+   
+
+Space complexity :-
+   - Fixed part
+	- Independent of instance characteristics.
+   - Variable part
+ 	- Dependent component variables
+ 	- Recursion stack space
+	
+Time complexity :-
+   - Amount of computer time it needs to run to completion.
+   - Time grows with size of input
+   - Time complexity - as a function of input size; T(n)
+   - Input size depends on problem.
+	- Simple method : Count the number of basic / elementary operations.
