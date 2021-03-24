@@ -1,0 +1,28 @@
+					Lecture 1
+					
+Software Engineeing
+				
+   - The economies of ALL developed nations dependent on software.
+   - More and more systems are software controlled.
+   - Software engineering is concerned with theories, methods and tools for professional software development.
+   - Expenditure on software represents significant fraction of GNP in all developed countries.
+   - Concerned with theories, methods and tools for professional software development.
+   
+Software costs
+   
+   - Software costs often dominate computer system costs. The costs of software on a PC are often greater than the hardware cost.
+   - Maintanence costs etc are high compared to hardware costs.
+   
+Software project failure - 
+
+ - Increasing system complexity
+	- As new software engineering techniques help us to build larger more complex systems, the demand change. Systems have be built and delivered more quickly; larger, even more complex systems are required; systems have to have new capabilites that were previously thought to be impossible.
+ - Failure to use software engineering methods
+	- It is fairly easy to wrie computer programs without using software engineering methods and techniques. Many companies have drifted into software development as their products and services have evolved. They do not use software engineering methods in their everyday work. Consequently, their software is often more expensive and less reliable than it should be.
+
+Professional software development
+
+
+	
+	
+   
